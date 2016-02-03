@@ -1,0 +1,327 @@
+body{
+	background: 
+}
+.eco img{
+	width: 110px;
+	height: 100px;
+	margin-top: 10px;
+}
+.inicio{
+	color: #9C9A9A;
+	float: right;
+	margin-top: -45px;
+}
+.inicio a{
+	text-decoration: none;
+	width: 500px;
+	color: #9C9A9A;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 18px;
+		font-family: OpenSans-Regular; 
+}
+.planta{
+	background-image:url("../img/semilla.jpg");
+	height: 330px;
+	width: 100%;
+}
+.lorem{
+	width: 100%;
+	height: 160px;
+}
+.lorem p{
+	width: 850px;
+	color: #9C9A9A;
+	text-align: center;
+	margin: auto;
+	padding-top: 60px;
+	font-size: 14px;
+	font-family: OpenSans-Light;
+}
+.row{
+	padding-top: 40px;
+	text-align: center;
+	margin: auto;
+}
+.mv{
+	width: 500px;
+	margin-bottom: 80px;
+}
+.mivi{
+	width: 130px;
+	height: 130px;
+}
+.mision,.servicio{
+	font-size: 22px;
+	font-family: OpenSans-Light;
+	font-weight: bold;
+}
+.infor{
+	font-size: 14px;
+	font-family: OpenSans-Light;
+}
+.foto{
+	background-image:url("../img/metodo.JPG"); 
+	height: 340px;
+	background-position: left top;
+}
+.fondo{
+	background-image:url("../img/fondo.jpg");
+	background-position: left top;
+	height: 340px;
+	text-align: center;
+	padding-top: 60px;
+	margin-bottom: 50px;
+}
+.metodo{
+	width: 50px;
+	height: 50px;
+
+}
+.mtd{
+	margin-top: 30px;
+	font-family: OpenSans-Light;
+	color: white;
+	font-size: 22px;
+	font-weight: bold;
+}
+.leccion{
+	width: 500px;
+	font-family: OpenSans-Light;
+	font-size: 12px;
+	margin: auto;
+	margin-top: 30px;
+}
+.servicios p{
+	text-align: center;
+	width: 855px;
+	margin: auto;
+	padding-top: 20px;
+}
+.lrm{
+	font-size: 13px;
+	font-family: OpenSans-Light
+}
+.clases{
+	margin-top: 20px;
+}
+.service{
+	margin-right: 20px;
+}
+.s1{
+	width: 100px;
+	height:100px;
+}
+.all{
+	margin-bottom: 15px;
+}
+.tema{
+	width: 120px;
+	margin: auto;
+	font-family: OpenSans-Light;
+	font-size: 15px;
+	font-weight: bold;
+}
+.tema1{
+	margin: auto;
+	font-family: OpenSans-Light;
+	font-size: 16px;
+	font-weight: bold;
+}
+.segurity{
+	margin-bottom: 15px;
+	font-family: OpenSans-Light;
+	font-size: 10px;
+	font-weight: bold;
+}
+.info{
+	font-size: 10px;
+	font-family: OpenSans-Light;
+	width: 280px;
+	margin-bottom: 40px;
+}
+.hoja{
+	margin-top: 10px;
+	padding-bottom: 60px;
+}
+.proy,.np{
+	font-family: OpenSans-Regular;
+	color: #fff;
+	font-size: 18px;
+}
+.proy{
+	float: left;
+}
+.si{
+	padding-right: 100px;
+}
+.np{
+	margin-top: 40px;
+}
+.nd{
+	font-family: OpenSans-Regular;
+	color:#fff;
+	font-size: 14px;
+}
+.tren{
+	margin-top: -40px;
+}
+.des{
+	width: 390px;
+	color:#fff;
+	font-family: OpenSans-Light;
+	font-size: 11px;
+	text-align: center;
+	margin: auto;
+}
+.equipo{
+	margin-top: 50px;
+}
+.equi{
+	float: left;
+	font-family: OpenSans-Light;
+	font-size: 18px;
+	font-weight: bold;
+}
+.integrante{
+	margin-left: -50px;
+	font-family: OpenSans-Light;
+}
+.fotos{
+	width: 200px;
+	height:200px;
+	border-radius: 100%;
+}
+.nom{
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.cargo{
+	font-size: 14px;
+	font-weight: bold;
+}
+.dato{
+	font-size: 12px;
+	width: 300px;
+	margin: auto;
+}
+.redes img{
+	margin-top: 20px;
+	width: 30px;
+	height:30px;
+	margin-right: 5px;
+	margin-bottom: 50px;
+}
+.tapiz{
+	background-image:url("../img/fondo2.jpg");
+	background-size: cover;
+	height: 420px; 
+}
+.blog{
+	font-family: OpenSans-Light;
+	font-weight: bold;
+	font-size: 16px;
+	padding-left: 145px;
+	padding-top: 50px;
+}
+.enero{
+	padding-left: 20px;
+}
+.sgte, .ant{
+	margin-top: 100px;
+}
+.ant{
+	padding-left: 60px;
+}
+.dentro{
+	width: 1104px;
+	margin-top: 0px;
+}
+.momentos{
+	width: 320px;
+	margin: auto;
+	margin-right: 6px;
+	margin-left: 20px;
+}
+.post, .date, .desc{
+	text-align: left;
+	font-family: OpenSans-Light;
+}
+.post, .date{
+	font-weight: bold;
+}
+.post{
+	font-size: 24px;
+}
+.date{
+	font-size: 16px;
+}
+.desc{
+	font-size: 11px;
+	width: 260px;
+}
+.tapiz1{
+	background: #4D4D4D;
+	background-size: cover;
+	height: 370px;
+}
+.social{
+	padding-top: 60px;
+	padding-left: 40px;
+	margin: auto;
+}
+.reds{
+	width: 310px;
+	height: 250px;
+	border: 1px solid #9C9A9A;
+	padding: 25px;
+}
+.red{
+	text-align: left;
+	font-family: OpenSans-Light;
+	font-size: 16px;
+	color: #9C9A9A;
+}
+.rd img{
+	width: 20%;
+	float: right;
+}
+.em img{
+	width: 40px;
+	height: 25px;
+	float: right;
+}
+.rd, .em{
+	margin-right: 60px;
+	margin-top: 150px;
+}
+footer{
+	background: #F2F2F2;
+	background-size: cover;
+	height: 200px;
+}
+.backfooter{
+	font-family: OpenSans-Light;
+	color:#9C9A9A;
+	padding-top: 50px;
+	font-size: 13px;
+	text-align: center;
+	padding-left: 18px;
+}
+.labo{
+	float: left;
+	font-size: 12px;
+	padding-left: 20px;
+	font-weight: bold;
+}
+.center{
+	font-family: OpenSans-Light;
+	color:#9C9A9A;
+	font-weight: bold;
+	padding-right: 30px;
+}
+.contacto{ 
+font-size: 12px;
+padding-right: 30px;
+}
